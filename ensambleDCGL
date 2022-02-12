@@ -1,0 +1,17 @@
+row,col,tr1,trt2,y
+F1,1,beta,C,10
+F1,2,gamma,B,10
+F1,3,delta,D,12
+F1,4,alfa,A,7
+F2,1,alfa,B,8
+F2,2,delta,C,15
+F2,3,gamma,A,7
+F2,4,beta,D,14
+F3,1,delta,A,6
+F3,2,alfa,D,14
+F3,3,beta,B,11
+F3,4,gamma,C,13
+F4,1,gamma,D,11
+F4,2,beta,A,8
+F4,3, alfa,C,10
+F4,4,delta,B,8
