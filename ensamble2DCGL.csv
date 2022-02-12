@@ -1,0 +1,17 @@
+fila,col,tr1,trt2,y
+F1,1,beta,C,11
+F1,2,gamma,B,10
+F1,3,delta,D,14
+F1,4,alfa,A,8
+F2,1,alfa,B,8
+F2,2,delta,C,12
+F2,3,gamma,A,10
+F2,4,beta,D,12
+F3,1,delta,A,9
+F3,2,alfa,D,11
+F3,3,beta,B,7
+F3,4,gamma,C,15
+F4,1,gamma,D,9
+F4,2,beta,A,8
+F4,3,alfa,C,18
+F4,4,delta,B,6
